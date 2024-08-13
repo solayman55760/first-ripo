@@ -1,0 +1,35 @@
+.form{
+    color: red;
+    background-color: chartreuse;
+    width: max-content;
+    margin: 0 auto;
+}
+.pitha{
+    color: blue;
+    background-color: yellow;
+}
+
+.w1{
+    background-color: chocolate;
+}
+
+.vorta{
+    color: red;
+    background-color: blanchedalmond;
+}
+.w2{
+    background-image: linear-gradient(orange,tomato);
+}
+
+.submit{
+    background-image: linear-gradient(rgb(156, 233, 14),rgb(23, 240, 193));
+    font-weight: bold;
+    border-radius: 50px;
+    color:red;
+}
+
+.ss{
+    color: blue;
+    font-size: 20px;
+    font-weight: bold;
+}
