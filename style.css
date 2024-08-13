@@ -6,3 +6,7 @@ td,th{
 table{
     border-collapse: collapse;
 }
+body{
+    background-color: aqua;
+    margin: 50px;
+}
